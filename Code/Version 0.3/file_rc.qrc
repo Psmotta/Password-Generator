@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>icon/key2.ico</file>
+  </qresource>
+</RCC>
